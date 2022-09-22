@@ -8,7 +8,7 @@ This project has minimum dev and build setups for different frontend frameworks 
 - qwik typescript (TODO)
 - react typescript (TODO)
 - rescript (TODO)
-- solidjs typescript (TODO)
+- solidjs typescript
 - svelte typescript (TODO)
 - vanilla JS (TODO)
 - vue typescript (TODO)
