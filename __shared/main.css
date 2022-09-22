@@ -1,0 +1,54 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.board {
+  margin-bottom: 20px;
+}
+
+.cell {
+  height: 40px;
+  width: 40px;
+  border-radius: 4px;
+  background-color: lightgray;
+  text-align: center;
+  color: black;
+}
+
+.cell--visible {
+  background-color: #75e6da;
+}
+
+.cell--mine {
+  color: red;
+}
+
+.cell--flag {
+  background-color: #ffd1f3;
+}
+
+.difficultyForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.difficultyForm__selection {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 320px;
+  margin-bottom: 20px;
+}
+
+.difficultyForm__submitBtn {
+  height: 48px;
+  width: 96px;
+  background-color: #75e6da;
+  border: none;
+  border-radius: 4px;
+}
