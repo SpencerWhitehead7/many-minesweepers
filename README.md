@@ -9,7 +9,7 @@ This project has minimum dev and build setups for different frontend frameworks 
 - react typescript (TODO)
 - rescript (TODO)
 - solidjs typescript
-- svelte typescript (TODO)
+- svelte typescript
 - vanilla JS (TODO)
 - vue typescript (TODO)
 - no angular because I aint about that

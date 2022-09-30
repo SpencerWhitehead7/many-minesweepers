@@ -1,14 +1,27 @@
 {
-  "name": "svelte",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "minesweeper--svelte",
+  "version": "1.0.0",
+  "description": "minesweeper implemented in svelte",
   "scripts": {
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "check": "svelte-check --tsconfig ./tsconfig.json"
+    "serve": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerWhitehead7/minesweeper.git"
+  },
+  "keywords": [
+    "minesweeper",
+    "svelte"
+  ],
+  "author": "Spencer Whitehead",
+  "license": "SEE LICENSE IN ../LICENSE",
+  "bugs": {
+    "url": "https://github.com/SpencerWhitehead7/minesweeper/issues"
+  },
+  "homepage": "https://github.com/SpencerWhitehead7/minesweeper#readme",
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.0.8",
     "@tsconfig/svelte": "^3.0.0",
